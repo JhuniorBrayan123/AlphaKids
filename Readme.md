@@ -1,4 +1,4 @@
-##Creando la nueva arquitectura de AlphaKids ##
+# Creando la nueva arquitectura de AlphaKids 
 
-
+ 
 # AlphaKids
